@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/modules/compressor.py;G:/PycharmData/WaterMark_Tool_V2/modules/config_manager.py;G:/PycharmData/WaterMark_Tool_V2/modules/exporter.py;G:/PycharmData/WaterMark_Tool_V2/modules/file_loader.py;G:/PycharmData/WaterMark_Tool_V2/modules/image_previewer.py;G:/PycharmData/WaterMark_Tool_V2/modules/watermark_processor.py;G:/PycharmData/WaterMark_Tool_V2/main.py;G:/PycharmData/WaterMark_Tool_V2/README.md;G:/PycharmData/WaterMark_Tool_V2/ui.py" />
+  </component>
+</project>
